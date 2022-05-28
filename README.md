@@ -6,6 +6,14 @@
     <img src="https://img.shields.io/badge/author-Astroraditya-orange" alt="author AstroRaditya"/>
 </p>
 
+# Preview
+
+<p align="center">
+    <img src="public\assets\img1.png" alt="demo 1"/>
+    <img src="public\assets\img2.png" alt="demo 2"/>
+   
+</p>
+
 ## License 📜
 
 If you want to use this code for your own websites. The answer to that question is usually "yes", with attribution. There are some cases, such as using this code for a business or something that is greater than a personal project, that we may be less comfortable saying yes to. If in doubt, please don't hesitate to ask us.
