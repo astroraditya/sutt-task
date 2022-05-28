@@ -29,7 +29,7 @@ const Artboard1 = props => {
                     <ul className={classes.ul}>
                     <li>Phone: {props.personal?.phone}</li>
                        <li>Email: {props.personal?.email}</li> 
-                        <li>affiliation: {props.personal?.affiliation}</li>
+                        <li>Affiliation: {props.personal?.affiliation}</li>
                         <li>Place: {props.personal?.loca}</li>
                         <li><a href={`mailto:${props.personal?.email}`}><i className="fas fa-envelope"></i> {props.personal?.email}</a></li>
                         <li><a href={`tel:${props.personal?.phone}`}><i className="fas fa-phone-alt"></i> {props.personal?.phone}</a></li>
