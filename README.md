@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/version-1.0.8-yellowgreen" alt="version 1.0.8"/>
     <img src="https://img.shields.io/badge/license-MIT-brightgreen" alt="license MIT"/>
     <img src="https://img.shields.io/badge/author-Astroraditya-orange" alt="author AstroRaditya"/>
-</p>
+</p>This is a repo made for hosting the task given by students union technical team of BITS Pilani, Pilani Campus.
 
 # Preview
 
